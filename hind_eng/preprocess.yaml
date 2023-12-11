@@ -1,0 +1,18 @@
+# where the samples will be written
+save_data: hind_eng/run/hindi_english
+
+# where the vocab(s) will be written
+src_vocab: hind_eng_vocab/run/hindi_english.vocab.src
+tgt_vocab: hind_eng_vocab/run/hindi_english.vocab.tgt
+
+# Prevent overwriting existing files in the folder
+overwrite: false
+
+# corpus opts:
+data:
+  corpus_1:
+    path_src: ../hind_eng/train/src-train.txt
+    path_tgt: ../hind_eng/train/tgt-train.txt
+  valid:
+    path_src: ../hind_eng/val/src-val.txt
+    path_tgt: ../hind_eng/val/tgt-val.txt

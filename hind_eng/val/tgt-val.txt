@@ -1,0 +1,850 @@
+Along with the Principal Sanjay Kumar, Puneeth Kashyap, Dina Nath, Kuldeep Kumar, Poonam Sharma, Sunita and Mridula Sharma and the other teachers present congratulated the students on their achievements.
+This Diwali different types of firecrackers are available with the name of your favourite politicians on them, in the market.
+If you don't want to buy the firecrackers with the name of Sonia, Modi and Rahul Gandhi, don't worry. Nitish brand crackers are also available in the market.
+If you are still not satisfied and you have reservations about these names, there are other options that are available in the market.
+This time when you go to the market to buy firecrackers for your children, you will not come back empty-handed.
+If you don't want to buy firecrackers with the name of Bihar's Chief Minister Nitish Kumar on them then you will definitely buy the ground round [S1]with the name of the former Deputy Chief, Sushil Modi.
+If you don't want to buy any of the crackers for your children with the name of any politician on them, then not to worry. The Ramvilas Paswan option is available for you. Yes, Ramvilas Paswan firecrackers are also available in the market.
+Even if Laloo Yadav is now being punished for the fodder scam, you need not worry at all. If you want to celebrate with him then don't worry, you can enjoy Diwali with Laloo Yadav in your home!
+Tributes were paid to former Prime Minister Indira Gandhi in the ceremony.
+This information was given by the school principal Nafe Singh.
+He said that the teachers and professors placed flowers on a picture of Indira Gandhi.
+An essay competition was organized on the topic - Pragati ke path par Haryana.
+Manju Lakshmi won first prize and Shilpa won second prize.
+The State president of the Association, Brij Mohan Gupta, shared his thoughts with the students on the sacrifices made by Sardar Patel and Indira.
+Urmila Malik, Geeta Gupta, Rajbir Singh and Amit Gupta were honoured as jury members.
+The principal gave information about the topic - Hariyana ki pragati.
+His dead body was found near the drainage ditch.
+The dead young man has been identified as Harish Gahlaut.
+Two gunshot wounds were found in the body of the young man.
+Police have sent the body for a post-mortem to the hospital and have started investigations.
+On Thursday at around 1 am, the police received information that a young person was lying injured near the drainage ditch in the Roshan garden area.
+When the police reached the spot they found him dead.
+He was then recognised as Harish, a resident of the Dharmpura District.
+The young man had been shot in the waist and shoulder with two bullets.
+Harish left his tenth grade studies midway.
+In the meanwhile, he was unemployed and fell into bad habits.
+The last time people saw him he was with a man.
+The police are trying to find this man, and also trying to find out where the youth was on Thursday and with whom, before his death.
+Jagran communication center, Rajouri: On Thursday a surprise search was conducted of the indifferent government officials of various departments to nab them.
+During the search at the P.H.E department in Kotranka the office was found locked and the employees were absent from work.
+One of the employees working there was suspended, while the absentees were issued with a show-cause notice.
+The District Commissioner has formed many teams to watch over the government employees.
+On his orders a surprise search was conducted by Tehsildaars and other departmental officers on Thursday.
+Kotranka Tehsildaar, Israr Ahmed Mir also paid a surprise visit to the government offices located in the headquarters.
+At the offices, as well as the employees, many high officials were found to be absent from duty.
+He made a note of the absent officials and sent the list to the District Commissioner Fakir Chand Bhagat.
+When Kotranka Tehsildaar reached the P.H.E department, he found it locked.
+None of the employees were present.
+At Kotranka hospital, apart from the doctors, 14 other employees were found absent.
+Even the B.M.O was absent.
+Also, in the B.D.O Office, apart from two temporary employees, the B.D.O himself along with his employee were not present.
+The C.D.P.O office was being handled by a low ranking official.
+In the office register the employees had marked themselves present for the next two days.
+In addition, at the C.A.D.P office, only the T.S.O was found present. The other employees were absent.
+A low ranking official was handling the horticulture office, while the other officials were missing.
+Tehsildaar prepared a list of all these absent employees and sent it to the District Commissioner.
+Meanwhile, the Chief Education Officer Choudhary Lal Hussain, paid a surprise visit to many schools in the Baljaralan Zone.
+Wali Mohammad is the person in charge of the midday meals in Katha School and has been suspended for not doing the work properly, while Mr.Abdul Majeed and teacher Suriya Begum of Cherrian Middle School, Javed Alam, the C.R.P at the Sankari High School and Ajay Kumar, the C.R.P at the Baljaralan Middle School, have all been issued with a show-cause notice.
+DIET Principal Pradeep Sharma conducted a surprise inspection of schools in the Thanamandi zone to check the midday meals there.
+On inspection, in the Thanamandi Zone, the principal found some loopholes in the midday meals and hence Mr. Pradeep Sharma asked the officer in charge of the meals and the Head Master to correct these deficiencies within two days.
+Highlight duration
+The duration of the highlight box when selecting accessible nodes.
+Highlight fill color
+The color and opacity of the highlight fill.
+Highlight border color
+The color and opacity of the highlight border.
+The layout for the bottom panel
+The layout for the bottom panel pluginview.
+The layout for the top panel
+The layout for the top panel pluginview.
+Single layout view
+Available new pluginviews
+The default plugin layout for the top panel.
+API Browser
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+IPython Console
+Interactive console for manipulating currently selected accessible
+Event monitor
+_ Monitor Events
+C _ lear Selection
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Start / stop event recording
+Clear event log
+Child count
+Description
+States
+Show
+Relations
+Attributes
+_ Accessible
+Perform action
+Acti _ on
+ID
+Toolkit
+Version
+Ap _ plication
+Col _ lection
+0, 0
+Relative position
+Size
+WIDGET
+Layer
+MDI - Z - order
+Alpha
+Absolute position
+Co _ mponent
+Des _ ktop
+Locale:
+_ Document
+Hyperlink
+H _ ypertext
+Position
+Locale
+_ Image
+Lo _ gin Helper
+Select All
+_ Selection
+St _ reamable Content
+Caption:
+Summary:
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+name (x, y)
+Header:
+Extents:
+Row
+Column
+Selected Cell
+_ Table
+Offset
+Include defaults
+Start: 0
+End: 0
+Te _ xt
+Current value
+Minimum increment
+Maximum value
+Minimum value
+Val _ ue
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+(not implemented)
+(no description)
+Name
+URI
+Start
+End
+Too many selectable children
+(Editable)
+Quick Select
+Plugin with various methods of selecting accessibles quickly.
+Inspect last focused accessible
+Inspect accessible under mouse
+Sche _ ma:
+V _ alidate
+Idle
+No description
+AT - SPI Validator
+Validates application accessibility
+Level
+Role
+Saving
+Validating
+EXCEPT
+ERROR
+WARN
+INFO
+DEBUG
+Basic
+Tests fundamental GUI application accessibility
+actionable% s is not focusable or selectable
+interactive% s is not actionable
+more than one focused widget
+% s has no text interface
+% s index in parent does not match child index
+Missing reciprocal for% s relation
+% s missing name or label
+focusable% s has a table interface, but not a selection interface
+% s has% s state without% s state
+% s does not belong to a set
+% (rolename) s index% (num) d does not match row and column
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% s has no name or description
+_ Preferences...
+_ Contents
+< dead >
+Children
+_ Hide / Show Applications without children
+_ Refresh Registry
+Refresh all
+Refresh _ Node
+Refresh selected node 's children
+Component
+Task
+Key
+Alt
+Ctrl
+Shift
+Top panel
+Bottom panel
+accerciser Preferences
+Plugins
+Global Hotkeys
+Highlighting
+Highlight duration:
+Border color:
+The border color of the highlight box
+Fill color:
+The fill color of the highlight box
+translator - credits
+An interactive Python accessibility explorer
+accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+The New BSD License See the COPYING and NOTICE files for details.
+Web site
+_ Add Bookmark...
+Bookmark selected accessible.
+_ Edit Bookmarks...
+Manage bookmarks.
+Edit Bookmarks...
+Title
+Application
+Path
+Add Bookmark...
+Title:
+Application:
+Path:
+Plugin Errors
+View
+No view
+_ Single plugins view
+Plugin View
+Plugin View (% d)
+_ New view...
+New View...
+_ File
+_ Edit
+_ Bookmarks
+_ View
+_ Help
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+Note: Changes only take effect after logout.
+Accerciser
+Give your application an accessibility workout
+Accerciser Accessibility Explorer
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default.
+Highlight duration
+The duration of the highlight box when selecting accessible nodes.
+Highlight fill color
+The color and opacity of the highlight fill.
+Highlight border color
+The color and opacity of the highlight border.
+The layout for the bottom panel
+The layout for the bottom panel pluginview.
+The layout for the top panel
+The layout for the top panel pluginview.
+Single layout view
+Available new pluginviews
+The default plugin layout for the top panel.
+API Browser
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+IPython Console
+Interactive console for manipulating currently selected accessible
+Event monitor
+_ Monitor Events
+C _ lear Selection
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Start / stop event recording
+Clear event log
+Child count
+Description
+States
+Show
+Relations
+Attributes
+_ Accessible
+Perform action
+Acti _ on
+ID
+Toolkit
+Version
+Ap _ plication
+Col _ lection
+0, 0
+Relative position
+Size
+WIDGET
+Layer
+MDI - Z - order
+Alpha
+Absolute position
+Co _ mponent
+Des _ ktop
+Locale:
+_ Document
+Hyperlink
+H _ ypertext
+Position
+Locale
+_ Image
+Lo _ gin Helper
+Select All
+_ Selection
+St _ reamable Content
+Caption:
+Summary:
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+name (x, y)
+Header:
+Extents:
+Row
+Column
+Selected Cell
+_ Table
+Offset
+Include defaults
+Start: 0
+End: 0
+Te _ xt
+Current value
+Minimum increment
+Maximum value
+Minimum value
+Val _ ue
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+(not implemented)
+Name
+URI
+Start
+End
+Too many selectable children
+(Editable)
+Start:% d
+Quick Select
+Plugin with various methods of selecting accessibles quickly.
+Inspect last focused accessible
+Inspect accessible under mouse
+Sche _ ma:
+V _ alidate
+Idle
+No description
+AT - SPI Validator
+Validates application accessibility
+Level
+Role
+Saving
+Validating
+EXCEPT
+ERROR
+WARN
+INFO
+DEBUG
+Basic
+Tests fundamental GUI application accessibility
+actionable% s is not focusable or selectable
+interactive% s is not actionable
+more than one focused widget
+% s has no text interface
+% s index in parent does not match child index
+Missing reciprocal for% s relation
+% s missing name or label
+focusable% s has a table interface, but not a selection interface
+% s has% s state without% s state
+% s does not belong to a set
+% (rolename) s index% (num) d does not match row and column
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% s has no name or description
+_ Preferences...
+_ Contents
+< dead >
+Children
+_ Hide / Show Applications without children
+_ Refresh Registry
+Refresh all
+Refresh _ Node
+Refresh selected node 's children
+Component
+Task
+Key
+Alt
+Ctrl
+Shift
+Top panel
+Bottom panel
+accerciser Preferences
+Plugins
+Global Hotkeys
+Highlighting
+Highlight duration:
+Border color:
+The border color of the highlight box
+Fill color:
+The fill color of the highlight box
+translator - credits
+An interactive Python accessibility explorer
+accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+The New BSD License See the COPYING and NOTICE files for details.
+Web site
+_ Add Bookmark...
+Bookmark selected accessible.
+_ Edit Bookmarks...
+Manage bookmarks.
+Edit Bookmarks...
+Title
+Application
+Path
+Add Bookmark...
+Title:
+Application:
+Path:
+Plugin Errors
+View
+No view
+_ Single plugins view
+Plugin View
+Plugin View (% d)
+_ New view...
+New View...
+_ File
+_ Edit
+_ Bookmarks
+_ View
+_ Help
+(no description)
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+Note: Changes only take effect after logout.
+_ New view...
+Accerciser
+Give your application an accessibility workout
+Accerciser Accessibility Explorer
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default.
+Highlight duration
+The duration of the highlight box when selecting accessible nodes.
+Highlight fill color
+The color and opacity of the highlight fill.
+Highlight border color
+The color and opacity of the highlight border.
+The layout for the bottom panel
+The layout for the bottom panel pluginview.
+The layout for the top panel
+The layout for the top panel pluginview.
+Single layout view
+Available new pluginviews
+The default plugin layout for the top panel.
+API Browser
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+IPython Console
+Interactive console for manipulating currently selected accessible
+Event monitor
+_ Monitor Events
+C _ lear Selection
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Start / stop event recording
+Clear event log
+Child count
+Description
+States
+Attributes
+Show
+Relations
+_ Accessible
+Perform action
+Acti _ on
+ID
+Toolkit
+Version
+Ap _ plication
+Col _ lection
+0, 0
+Relative position
+Size
+WIDGET
+Layer
+MDI - Z - order
+Alpha
+Absolute position
+Co _ mponent
+Des _ ktop
+Locale:
+_ Document
+Hyperlink
+H _ ypertext
+Position
+Locale
+_ Image
+Lo _ gin Helper
+Select All
+_ Selection
+St _ reamable Content
+Caption:
+Summary:
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+name (x, y)
+Header:
+Extents:
+Row
+Column
+Selected Cell
+_ Table
+Offset
+Include defaults
+Start: 0
+End: 0
+Te _ xt
+Current value
+Minimum increment
+Maximum value
+Minimum value
+Val _ ue
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+(not implemented)
+Name
+URI
+Start
+End
+Too many selectable children
+(Editable)
+Start:% d
+Quick Select
+Plugin with various methods of selecting accessibles quickly.
+Inspect last focused accessible
+Inspect accessible under mouse
+Sche _ ma:
+V _ alidate
+Idle
+No description
+AT - SPI Validator
+Validates application accessibility
+Level
+Role
+Saving
+Validating
+EXCEPT
+ERROR
+WARN
+INFO
+DEBUG
+Basic
+Tests fundamental GUI application accessibility
+actionable% s is not focusable or selectable
+interactive% s is not actionable
+more than one focused widget
+% s has no text interface
+% s index in parent does not match child index
+Missing reciprocal for% s relation
+% s missing name or label
+focusable% s has a table interface, but not a selection interface
+% s has% s state without% s state
+% s does not belong to a set
+% (rolename) s index% (num) d does not match row and column
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% s has no name or description
+_ Preferences...
+_ Contents
+< dead >
+Children
+_ Hide / Show Applications without children
+_ Refresh Registry
+Refresh all
+Refresh _ Node
+Refresh selected node 's children
+Component
+Task
+Key
+Alt
+Ctrl
+Shift
+Top panel
+Bottom panel
+accerciser Preferences
+Plugins
+Global Hotkeys
+Highlighting
+Highlight duration:
+Border color:
+The border color of the highlight box
+Fill color:
+The fill color of the highlight box
+translator - credits
+An interactive Python accessibility explorer
+accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+The New BSD License See the COPYING and NOTICE files for details.
+Web site
+_ Add Bookmark...
+Bookmark selected accessible.
+_ Edit Bookmarks...
+Manage bookmarks.
+Edit Bookmarks...
+Title
+Application
+Path
+Add Bookmark...
+Title:
+Application:
+Path:
+Plugin Errors
+View
+No view
+_ Single plugins view
+Plugin View
+Plugin View (% d)
+_ New view...
+New View...
+_ File
+_ Edit
+_ Bookmarks
+_ View
+_ Help
+(no description)
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+Note: Changes only take effect after logout.
+_ New view...
+GNOME
+Default GNOME Theme
+Desktop
+Documents
+Downloads
+Favorite
+Generic
+Important
+Mail
+New
+Package
+Photos
+No write
+No read
+Urgent
+Web
+GNOME
+Default GNOME Theme
+Desktop
+Documents
+Downloads
+Favorite
+Generic
+Important
+Mail
+New
+Package
+Photos
+No write
+No read
+Urgent
+Web
+GNOME
+Default GNOME Theme
+Desktop
+Documents
+Downloads
+Favorite
+Generic
+Important
+Mail
+New
+Package
+Photos
+No write
+No read
+Urgent
+Web
+GNOME
+Default GNOME Theme
+Desktop
+Documents
+Downloads
+Favorite
+Generic
+Important
+Mail
+New
+Package
+Photos
+No write
+No read
+Urgent
+Web
+Desktop
+GNOME
+Documents
+Downloads
+Favorite
+Generic
+Important
+Mail
+New
+Package
+Photos
+No write
+No read
+Urgent
+Web
+AisleRiot Solitaire
+Play many different solitaire games
+solitaire; cards; klondike; spider; freecell; patience;
+Theme file name
+The name of the file with the graphics for the cards.
+Whether or not to show the toolbar
+Whether or not to show the status bar
+Select the style of control
+Select whether to drag the cards or to click on the source then the destination.
+Sound
+Whether or not to play event sounds.
+Animations
+Whether or not to animate card moves.
+The game file to use
+The name of the scheme file containing the solitaire game to play.
+Statistics of games played
+A list of strings that come in the form of a quintuple: name, wins, total games played, best time (in seconds) and worst time (also in seconds). Unplayed games do not need to be represented.
+Recently played games
+A list of recently played games.
+New Game
+Change Game
+Statistics
+Fullscreen
+Help
+About Aisleriot
+Quit
+Select Game
+_ Select
+_ Contents
+_ Fullscreen
+_ Hint
+_ New
+_ New Game
+_ Redo Move
+_ Reset
+_ Restart
+_ Undo Move
+_ Deal
+_ Leave Fullscreen
+_ Pause
+% s is free software; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version% d of the License, or (at your option) any later version.
+% s is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program. If not, see.
+foundation
+reserve
+stock
+tableau
+waste
+% s on foundation
+% s on reserve
+% s on stock
+% s on tableau
+% s on waste
+This game does not have hint support yet.
+Move% s onto% s.
+This game is unable to provide a hint.
+Accordion
+Agnes
+Athena
+Auld Lang Syne
+Aunt Mary
+Backbone
+Bakers Dozen
+Bakers Game
+Bear River
+Beleaguered Castle
+Block Ten
+Bristol
+Camelot
+Canfield
+Carpet
+Chessboard
+Clock
+Cover
+Cruel
+Diamond Mine
+Doublets
+Eagle Wing
+Easthaven
+Eight Off
+Elevator
+Eliminator
+Escalator
+First Law
+Fortress
+Fortunes
+Forty Thieves
+Fourteen
+Freecell
+Gaps
+Gay Gordons
+Giant
+Glenwood
+Gold Mine
+Golf
+Gypsy
+Helsinki
+Hopscotch
+Isabel
+Jamestown
+Jumbo
+Kansas
+King Albert
+Kings Audience
+Klondike
+Klondike Three Decks
+Labyrinth
+Lady Jane
+Maze
+Monte Carlo
+Napoleons Tomb
+Neighbor
+Odessa
+Osmosis
+Peek
+Pileon
+Plait
+Poker
+Quatorze
+Royal East
+Saratoga
+Scorpion
